@@ -1,4 +1,4 @@
-## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm　Bluild
+## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Bluild
 <img align="center" height="auto" src="https://github.com/TaufiqStark/TaufiqStark/blob/master/img/images.jpeg"/>
 
 ___
