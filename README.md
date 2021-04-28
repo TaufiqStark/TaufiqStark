@@ -3,7 +3,7 @@
 
 ___
 
-<img src="https://count.getloli.com/get/@:taufiqstart?theme=gelbooru-h"/>
+<img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru-h" alt=":taufiqstark"/>
 
 ___
 
