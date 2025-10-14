@@ -17,14 +17,16 @@ jobs:
 
       - name: Update Random Image in README
         run: |
-          # Daftar tautan gambar yang akan diacak
+          # Daftar tautan gambar RAW yang akan diacak
           IMAGES=(
-            "https://picsum.photos/600/400"
-            "https://source.unsplash.com/random/600x400"
-            "https://unsplash.it/600/400?random=1"
+            "https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_cute-peace.png"
+            "https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_cute-pose.png"
+            "https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_pleading-face.png"
+            "https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_sharp_devil-face.png"
+            "https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_side-eye.png"
           )
 
-          # Pilih tautan gambar secara acak
+          # Pilih tautan gambar secara acak dari daftar di atas
           RANDOM_IMAGE=${IMAGES[RANDOM % ${#IMAGES[@]}]}
 
           # Cari baris yang berisi ID unik, lalu ganti tautan di tag <img> di dalam baris tersebut
@@ -33,8 +35,8 @@ jobs:
           }" README.md
 
           echo "Berhasil mengganti tautan gambar menjadi: ${RANDOM_IMAGE}"
-          echo "--- Isi README.md setelah perubahan ---"
-          cat README.md
+          # echo "--- Isi README.md setelah perubahan ---"
+          # cat README.md
 
       - name: Commit and Push Changes
         run: |
@@ -42,7 +44,7 @@ jobs:
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add README.md
-            git commit -m "chore(readme): update random image via ID"
+            git commit -m "(readme): update random image"
             git push
             echo "Perubahan berhasil di-commit dan di-push."
           else
