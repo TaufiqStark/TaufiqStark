@@ -31,6 +31,8 @@ jobs:
           sed -i "/id=\"random-profile-image\"/ s|<img src=\".*\"|<img src=\"${RANDOM_IMAGE}\"|" README.md
 
           echo "Berhasil mengganti tautan gambar menjadi: ${RANDOM_IMAGE}"
+          echo "--- Isi README.md setelah perubahan ---"
+          cat README.md
 
       - name: Commit and Push Changes
         run: |
