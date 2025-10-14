@@ -7,7 +7,7 @@
 <img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru" alt=":taufiqstark" width="100%"/>
 
 
-<img onclick="()=>alert('oke')" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" />
+<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
 
 
 
