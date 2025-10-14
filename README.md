@@ -1,6 +1,6 @@
 # 🐥 Helloo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> I'm Taufiq Ama
-<a href="https://bluu.eu.org" id="random-profile-image">
-  <img height="auto" width="100%" src="https://github.com/TaufiqStark/TaufiqStark/blob/main/img/yuki-souo.png"/>
+<a href="https://bluu.eu.org" >
+  <img id="random-profile-image" height="auto" width="100%" src="https://github.com/TaufiqStark/TaufiqStark/blob/main/img/yuki-souo.png"/>
 </a>
 
 
