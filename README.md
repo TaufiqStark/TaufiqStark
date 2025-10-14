@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-☘️ I'm currently learning Roblox Studio Scripting with Lua and UI/UX Design<br>🌱 Working as Backend Developer<br>👯 I’m looking to collaborate on Roblox Studio <br>💬 Ask me about anything about tech<br>⚡ Fun fact
+☘️ I'm currently learning Roblox Studio Scripting with Lua and UI/UX Design<br>🌱 Working as Backend Developer<br>👯 I’m looking to collaborate on Roblox Studio <br>💬 Ask me about anything about tech<br>⚡ Have fun with me
 
 
 ## 🌐 Socials:
