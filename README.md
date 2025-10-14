@@ -1,5 +1,5 @@
 # 🐥 Helloo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> I'm Taufiq Ama
-<img align="center" height="auto" width="30%" src="https://github.com/TaufiqStark/TaufiqStark/blob/main/img/elaina.png"/>
+<img align="center" height="auto" width="30%" src="https://github.com/TaufiqStark/TaufiqStark/blob/main/img/yuki-souo.png"/>
 
 
 <img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru" alt=":taufiqstark" width="100%"/>
