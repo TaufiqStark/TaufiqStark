@@ -2,7 +2,7 @@ name: Update README Image
 
 on:
   schedule:
-    - cron: '0 * 7 * *'
+    - cron: '0 11 * * 1'
   workflow_dispatch:
 
 jobs:
