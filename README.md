@@ -3,12 +3,7 @@
   <img id="random-profile-image" height="auto" width="100%" src="https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_cute-pose.png"/>
 </a>
 
-  <img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru" alt=":taufiqstark" width="100%"/>
-  <img src="https://holopin.me/taufiqstark" alt="An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
-
-<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
-
-
+<img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru" alt=":taufiqstark" width="100%"/>
 
 # 💫 About Me:
 ☘️ I'm currently learning Roblox Studio Scripting with Lua and UI/UX Design<br>🌱 Working as Backend Developer<br>👯 I’m looking to collaborate on Roblox Studio <br>💬 Ask me about anything about tech<br>⚡ Have fun with me
@@ -39,7 +34,8 @@
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/taufiqama) 
 
-
+<img src="https://holopin.me/taufiqstark" alt="An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
+<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
 <!--
 **TaufiqStark/TaufiqStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
