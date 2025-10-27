@@ -9,6 +9,8 @@
 
 <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
 
+[![An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiqstark)](https://holopin.io/@taufiqstark)
+
 
 
 # 💫 About Me:
