@@ -29,8 +29,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TaufiqStark&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 <img src="https://holopin.me/taufiqstark" alt="An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
-<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
----
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
+
 <!-- [![](https://visitcount.itsvg.in/api?id=TaufiqStark&icon=10&color=0)](https://visitcount.itsvg.in) -->
 
 ## 💰 You can help me by Donating
