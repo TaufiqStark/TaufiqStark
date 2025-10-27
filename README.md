@@ -3,16 +3,10 @@
   <img id="random-profile-image" height="auto" width="100%" src="https://raw.githubusercontent.com/TaufiqStark/TaufiqStark/main/img/yuki-souo_side-eye.png"/>
 </a>
 
-
-<div width="100%">
   <img src="https://count.getloli.com/get/@:taufiqstark?theme=gelbooru" alt=":taufiqstark" width="100%"/>
   <img src="https://holopin.me/taufiqstark" alt="An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
-</div>
-
 
 <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%" onclick="alert('oke')"/>
-
-[![An image of @taufiqstark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiqstark)](https://holopin.io/@taufiqstark)
 
 
 
